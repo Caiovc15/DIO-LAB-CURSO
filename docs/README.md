@@ -21,7 +21,44 @@ docs/
 └── README.md
 ```
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+
+
+
+## Tecnologias Utilizadas
+
+Este projeto utiliza as seguintes tecnologias:
+
+[![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=E94D5F)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+- **HTML**: [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - *Linguagem de marcação para criar páginas web.*
+- **CSS**: [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - *Folhas de estilo para formatar a aparência das páginas web.*
+
+## Como Executar
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/seu-repositorio.git
+    ```
+
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd nome-do-repositorio
+    ```
+
+3. Abra o arquivo `index.html` no seu navegador.
+
+## Contribuições
+
+Se você deseja contribuir com este projeto, sinta-se à vontade para abrir um "Pull Request". Aqui estão algumas maneiras de contribuir:
+
+- Correção de bugs
+- Melhoria na documentação
+- Implementação de novas funcionalidades
+
+## Licença
+
+Este projeto é licenciado sob a [MIT License](LICENSE).
+
